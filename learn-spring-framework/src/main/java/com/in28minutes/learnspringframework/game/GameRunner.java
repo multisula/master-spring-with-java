@@ -1,5 +1,7 @@
 package com.in28minutes.learnspringframework.game;
 
+import org.springframework.beans.factory.annotation.Qualifier;
+
 public class GameRunner {
     GamingConsole game;
 
